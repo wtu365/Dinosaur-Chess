@@ -1,1 +1,1 @@
-# COEN-160-Project
+# Dinosaur Chess
